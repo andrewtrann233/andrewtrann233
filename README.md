@@ -1,5 +1,5 @@
 # console.log("Hi there 👋");
-Hi there, my name is Andrew. I'm a student from Western High School, Anaheim, CA. My dream college is the University of California Berkeley, and my intended field of study is web development.
+Hi there, my name is Andrew. My favorite food is udon. My dream school is UC Berkeley, and I intend to major in computer science.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,github,git,js,ts,cpp,cmake,py,express,mysql,graphql,apollo,webpack,react,nodejs,html,css&perline=17)](https://skillicons.dev)
 
