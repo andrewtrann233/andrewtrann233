@@ -1,7 +1,7 @@
-# console.log("Hi there 👋");
-My name is Andrew. I'm a high school student looking to be involved with various technologies.
+# console.log("Hi there, I'm Andrew 👋");
+I'm a sophomore involved with Vietnamese culture, primarily lion dance. I love trying authentic cuisine from around the world and am hoping for my traveling opportunities!
 
-[![My Skills](https://skillicons.dev/icons?i=linux,github,git,js,ts,cpp,cmake,py,express,mysql,webpack,react,nodejs,html,css&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,vite,react,express,graphql,anaconda,tensorflow)](https://skillicons.dev)
 
 ## GitHub Stats
 [![My Stats](https://github-readme-stats.vercel.app/api?username=andrewtrann777&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app)
