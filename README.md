@@ -1,7 +1,5 @@
 # console.log("Hi there, I'm Andrew 👋");
-I'm a hobbyist full-stack web developer. I was previously a web design intern at the Anaheim Union High School District. I enjoy eating, my favorite cuisine is Chinese; traveling, I've been to New York and Vietnam; and watching shows, my favorite is Brooklyn Nine Nine.
+I'm a web developer @ AIME Kindset, and a previous web design intern @ AUHSD. I enjoy watching Best Ever Food Review Show, MasterChef, and other cooking- or eating-related shows. I'm looking to explore Asia, Africa, and Europe in the near future!! 👀
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,vite,react,express,graphql,anaconda,tensorflow)](https://skillicons.dev)
-
-## GitHub Stats
-[![My Stats](https://github-readme-stats.vercel.app/api?username=andrewtrann777&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app)
+#
+[![My skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,vite,react,express,graphql,anaconda,pytorch)](https://skillicons.dev)
